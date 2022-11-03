@@ -1,0 +1,14 @@
+{
+  "name": "Baeldung",
+  "area": "tech blogs",
+  "address": [
+    {
+      "city": "Bucharest",
+      "country": "Romania"
+    },
+    {
+      "city": "Chicago",
+      "country": "America"
+    }
+  ]
+}
